@@ -1,0 +1,1 @@
+$.fn.modal || document.write('<script src="js/cdnFallbacks/bootstrap-3.2.0.min.js"><\/script>');
